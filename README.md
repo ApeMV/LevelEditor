@@ -1,8 +1,3 @@
-<p align="center">
-<b>An incredibly simple application built just to edit your Among Us level. </b>
-
-
-
 <b>How to install:</b>
 1. Download the latest .zip file in the release tab (LevelEditor.1.0.0.zip in this case)
 
@@ -14,6 +9,5 @@
 - **Itch.io:** Open the Itch.io app → Right-click Among Us in your Library → Click `Manage` → Click `Open folder in Explorer`.
   
 4. Open Among Us and then close it, there should now be a LevelEditor.CFG file in Among Us > BepinEx > config. In the CFG file you can adjust your level.
-
 
 +  If this does not work feel free to contact my discord: @apemv 
