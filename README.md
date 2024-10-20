@@ -8,9 +8,9 @@
 - **Epic Launcher:** Right-click Among Us in your Library → Click `Manage` → Click the folder icon in the `Installation` box.
 - **Itch.io:** Open the Itch.io app → Right-click Among Us in your Library → Click `Manage` → Click `Open folder in Explorer`.
   
-4. there should now be a LevelEditor.CFG file in Among Us > BepinEx > config. In the CFG file you can adjust your level.
+4. there should now be a LevelEditor.CFG file in **Among Us > BepinEx > config**. In this file you can adjust your level.
 
-If you already have BepinEx you can simply download levelEditor.dll and move it into the following:
-Among Us > BepinEx > Plugins
+<b>Extra:</b>
+-  If you already have BepinEx you can simply download levelEditor.dll and move it into **Among Us > BepinEx > Plugins**
 
--  If this does not work feel free to contact my discord: @apemv 
+-  If this does not work feel free to contact my discord: **@apemv** 
